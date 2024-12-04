@@ -289,12 +289,12 @@ position_smoothing_speed = 7.0
 
 [node name="Panel" type="Panel" parent="UI"]
 anchors_preset = -1
-anchor_left = -0.402
+anchor_left = -0.394188
 anchor_top = -13.805
-anchor_right = 17.285
-anchor_bottom = 1.787
-offset_left = 768.104
-offset_top = 9062.64
-offset_right = -19227.3
-offset_bottom = -706.976
+anchor_right = 17.2355
+anchor_bottom = 1.38577
+offset_left = 476.104
+offset_top = 9123.64
+offset_right = -19519.3
+offset_bottom = -645.976
 metadata/_edit_use_anchors_ = true
